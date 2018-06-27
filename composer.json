@@ -1,5 +1,5 @@
 {
-  "name": "pepijnolivier/laravel-bittrex",
+  "name": "sadenergizer/laravel-bittrex",
   "description": "Bittrex API wrapper for Laravel",
   "tags": ["bittrex", "api", "laravel"],
   "type": "library",
